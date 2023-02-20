@@ -12,4 +12,5 @@ But By just clicking "Enable Css" button , it will get styles via javascript :)
 
 ![image](./img/HtmlCss.jpg)
 
-### **_~Emir Atasoy_**
+### ***~Emir Atasoy***
+[***Patika Dev***](https://app.patika.dev/emiratasoy)
